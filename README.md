@@ -1,4 +1,4 @@
-Live URL https://shahwali-web.github.io/currency-converter
+Online URL https://shahwali-web.github.io/currency-converter
 
 Currency Converter
 A simple and interactive currency converter built with HTML, CSS, and JavaScript. This application allows users to convert an amount of money from one currency to another using real-time exchange rates fetched from a public API. The user-friendly interface provides dropdown options to select the currencies and an input field to enter the amount for conversion.
